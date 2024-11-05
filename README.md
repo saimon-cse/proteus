@@ -26,20 +26,20 @@ Each folder typically contains the following files:
 
 
 
-   /Proteus-Projects
-  ├── adder
-  │   ├── adder.dsn
-  │   ├── adder_schematic.png
-  │   └── README.md
-  ├── subtractor
-  │   ├── subtractor.dsn
-  │   └── README.md
-  ├── half-adder
-  │   ├── half_adder.dsn
-  │   └── README.md
-  └── full-adder
-      ├── full_adder.dsn
-      └── README.md
+/Proteus-Projects
+├── adder
+│   ├── adder.dsn
+│   ├── adder_schematic.png
+│   └── README.md
+├── subtractor
+│   ├── subtractor.dsn
+│   └── README.md
+├── half-adder
+│   ├── half_adder.dsn
+│   └── README.md
+└── full-adder
+├── full_adder.dsn
+└── README.md
 
 
 
